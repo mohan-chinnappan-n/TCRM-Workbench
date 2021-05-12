@@ -20,4 +20,4 @@
 
 <a name="restc"></a>
 ## REST Console 
--![REST Console](img/tcrm-wb-restc-1.gif)
+-![REST Console](img/tcrm-wb-restc-2.gif)
