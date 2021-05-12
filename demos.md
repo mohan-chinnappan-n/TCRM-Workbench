@@ -3,6 +3,8 @@
 ## Topics
 - [Dataflow Field Usage](#dffu)
 - [Data Connector](#dc)
+- [REST Console](#restc)
+
 - [CLI - Plugin Features](https://www.salesforceblogger.com/2020/11/17/mohans-sfdx-plugin-for-analytics/)
     - Most of the features in CLI Plugin will be available in TCRM Workbench!
 
@@ -14,4 +16,8 @@
 
 <a name="dc"></a>
 ## Data Connectors 
--![Data connecgtors](img/tcrm-wb-dc-1.gif)
+-![Data connectors](img/tcrm-wb-dc-1.gif)
+
+<a name="restc"></a>
+## REST Console 
+-![REST Console](img/tcrm-wb-restc-1.gif)
