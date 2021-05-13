@@ -26,4 +26,4 @@
 
 <a name="Limits"></a>
 ## Limits (TCRM and Platform_ 
--![REST Console](img/tcrm-wb-limits-1.gif)
+-![REST Console](img/tcrm-wb-limits-2.gif)
