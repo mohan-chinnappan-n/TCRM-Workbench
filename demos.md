@@ -11,7 +11,7 @@
 
 <a name="dffu"></a>
 ## Field Usage for a dataflow
--![DF Field Usage](img/tcrm-wb-2.gif)
+-![DF Field Usage](img/tcrm-wb-main-1.gif)
 
 
 <a name="dc"></a>
