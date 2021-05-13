@@ -16,7 +16,7 @@
 
 <a name="dc"></a>
 ## Data Connectors 
--![Data connectors](img/tcrm-wb-dc-1.gif)
+-![Data connectors](img/tcrm-wb-dc-2.gif)
 
 <a name="restc"></a>
 ## REST Console 
