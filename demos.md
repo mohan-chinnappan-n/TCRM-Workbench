@@ -4,6 +4,8 @@
 - [Dataflow Field Usage](#dffu)
 - [Data Connector](#dc)
 - [REST Console](#restc)
+- [Limit](#limits)
+
 
 - [CLI - Plugin Features](https://www.salesforceblogger.com/2020/11/17/mohans-sfdx-plugin-for-analytics/)
     - Most of the features in CLI Plugin will be available in TCRM Workbench!
@@ -21,3 +23,7 @@
 <a name="restc"></a>
 ## REST Console 
 -![REST Console](img/tcrm-wb-restc-3.gif)
+
+<a name="Limits"></a>
+## Limits (TCRM and Platform_ 
+-![REST Console](img/tcrm-wb-limits-1.gif)
