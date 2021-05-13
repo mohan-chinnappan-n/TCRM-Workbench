@@ -4,7 +4,7 @@
 - [Dataflow Field Usage](#dffu)
 - [Data Connector](#dc)
 - [REST Console](#restc)
-- [Limit](#limits)
+- [Limits - TCRM and Platform](#limits)
 
 
 - [CLI - Plugin Features](https://www.salesforceblogger.com/2020/11/17/mohans-sfdx-plugin-for-analytics/)
