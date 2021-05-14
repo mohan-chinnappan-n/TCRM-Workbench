@@ -3,7 +3,11 @@
 ## Topics
 - [Dataflow Field Usage](#dffu)
 - [Data Connector](#dc)
+
 - [REST Console](#restc)
+- [SOQL Console](#soqlc)
+
+
 - [Limits - TCRM and Platform](#limits)
 - [Assets Counts - TCRM ](#ac)
 
@@ -25,6 +29,12 @@
 <a name="restc"></a>
 ## REST Console 
 -![REST Console](img/tcrm-wb-restc-3.gif)
+
+
+<a name="soqlc"></a>
+## SOQL Console 
+-![REST Console](img/tcrm-wb-soqlc-1.gif)
+
 
 <a name="Limits"></a>
 ## Limits (TCRM and Platform_ 
