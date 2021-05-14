@@ -5,6 +5,8 @@
 - [Data Connector](#dc)
 - [REST Console](#restc)
 - [Limits - TCRM and Platform](#limits)
+- [Assets Counts - TCRM ](#ac)
+
 
 
 - [CLI - Plugin Features](https://www.salesforceblogger.com/2020/11/17/mohans-sfdx-plugin-for-analytics/)
@@ -27,3 +29,7 @@
 <a name="Limits"></a>
 ## Limits (TCRM and Platform_ 
 -![REST Console](img/tcrm-wb-limits-2.gif)
+
+<a name="ac"></a>
+## TCRM Asset Counts 
+-![TCRM Asset Counts](img/tcrm-wb-assets-1.gif)
