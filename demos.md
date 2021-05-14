@@ -33,7 +33,9 @@
 
 <a name="soqlc"></a>
 ## SOQL Console 
--![REST Console](img/tcrm-wb-soqlc-1.gif)
+-![SOQL Console](img/tcrm-wb-soqlc-1.gif)
+-![Event SOQL Console](img/tcrm-wb-soql2-1.gif)
+
 
 
 <a name="Limits"></a>
