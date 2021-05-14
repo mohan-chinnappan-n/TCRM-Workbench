@@ -34,7 +34,7 @@
 <a name="soqlc"></a>
 ## SOQL Console 
 -![SOQL Console](img/tcrm-wb-soqlc-1.gif)
--![Event SOQL Console](img/tcrm-wb-soqlc2-1.gif)
+-![Event SOQL Console](img/tcrm-wb-soqlc-2.gif)
 
 
 
