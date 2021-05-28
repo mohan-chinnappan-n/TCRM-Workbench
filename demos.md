@@ -11,6 +11,9 @@
 - [Limits - TCRM and Platform](#limits)
 - [Assets Counts - TCRM ](#ac)
 
+- [Dataflow Optimization Flow](#dfopt))
+
+
 
 
 - [CLI - Plugin Features](https://www.salesforceblogger.com/2020/11/17/mohans-sfdx-plugin-for-analytics/)
@@ -45,3 +48,9 @@
 <a name="ac"></a>
 ## TCRM Asset Counts 
 -![TCRM Asset Counts](img/tcrm-wb-assets-1.gif)
+
+<a name='dfopt'></a>
+## Dataflow Optimization Flow
+-![DF Optimization flow](img/opt/tcrm-df-opt-1.gif)
+
+
