@@ -12,7 +12,7 @@
 - [Assets Counts - TCRM ](#ac)
 
 - [dataflow optimization flow](#dfopt)
-- [SAQL in REST console](#saql))
+- [SAQL in REST console](#saql)
 
 
 
