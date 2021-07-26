@@ -11,7 +11,7 @@
 - [Limits - TCRM and Platform](#limits)
 - [Assets Counts - TCRM ](#ac)
 
-- [dataflow optimization flow](#dfopt))
+- [dataflow optimization flow](#dfopt)
 - [SAQL in REST console](#saql))
 
 
@@ -63,6 +63,6 @@
   
 }
 ```
--![SAQL using REST Console)(img/saql/saql-1.png)
+-![SAQL using REST Console](img/saql/saql-1.png)
 
 
