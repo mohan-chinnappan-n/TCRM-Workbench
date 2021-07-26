@@ -63,6 +63,6 @@
   
 }
 ```
--![SAQL using REST Console](img/saql/saql-1.png)
+-![SAQL using REST Console](img/saql/saql-1.gif)
 
 
