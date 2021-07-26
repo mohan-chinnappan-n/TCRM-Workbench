@@ -53,4 +53,15 @@
 ## Dataflow Optimization Flow
 -![DF Optimization flow](img/opt/tcrm-df-opt-1.gif)
 
+<a name='saql'></a>
+## Running SAQL using REST console
+### SAQL
+```
+{
+    "query": "q = load \"0Fb3h0000008sotCAA/0Fc3h0000026d2LCAQ\";q = group q by 'all';q = foreach q generate count() as 'count'; q = limit q 2000;"
+  
+}
+```
+-![SAQL using REST Console)(img/saql/saql-1.png)
+
 
