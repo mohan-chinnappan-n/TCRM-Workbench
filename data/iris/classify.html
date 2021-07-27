@@ -3,7 +3,9 @@
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
     <script lang="js">
         async function load_data(){
-            const csvUrl = 'iris.csv';
+
+            // refer: https://js.tensorflow.org/api/latest/#data.csv
+            const csvUrl = 'https://raw.githubusercontent.com/mohan-chinnappan-n/TCRM-Workbench/master/data/iris/iris.csv';
             const trainingData = tf.data.csv(csvUrl, {
                 columnConfigs: {
                     species: {
@@ -11,7 +13,8 @@
                     }
                 }
             });
-            
+        
+        console.log(trainingData);    
         const numOfFeatures = (await trainingData.columnNames()).length - 1;
         const numOfSamples = 150;
         const convertedData =
