@@ -197,3 +197,7 @@ open https://mohansun-ea-02-dev-ed.my.salesforce.com/analytics/dataManager in a 
 
 ## Dataset
 ![Boston Housing dataset](img/tcrm-boston-housing-1.png)
+
+## TCRM Workbench to SAQL for the dataset
+![TCRM Workbench SAQL - datasets](img/bousing-housing-tcrm-wb-1.png)
+![TCRM Workbench SAQL - Query](img/bousing-housing-tcrm-wb-2.png)
