@@ -143,7 +143,7 @@ open https://mohansun-ea-02-dev-ed.my.salesforce.com/analytics/dataManager in a 
 ```
 
 ## Dataset 
-![Cars dataset](img/tcrm-boston-housing-1.png)
+![Cars dataset](img/cars-datset-1.png)
 
 ## TCRM Workbench to SAQL for the dataset
 ![TCRM Workbench SAQL - datasets](img/cars-tcrm-wb-1.png)
