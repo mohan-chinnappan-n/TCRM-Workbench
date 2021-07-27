@@ -200,4 +200,10 @@ open https://mohansun-ea-02-dev-ed.my.salesforce.com/analytics/dataManager in a 
 
 ## TCRM Workbench to SAQL for the dataset
 ![TCRM Workbench SAQL - datasets](img/bousing-housing-tcrm-wb-1.png)
+### SAQL
+```
+{
+    "query": "q = load \"0Fb3h000000Yk8qCAC/0Fc3h000006IF6ECAW\";q = foreach q generate city as 'city', crim as 'crim', medv as 'medv'; ​q = limit q 2000;"
+}
+```
 ![TCRM Workbench SAQL - Query](img/bousing-housing-tcrm-wb-2.png)
