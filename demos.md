@@ -14,6 +14,8 @@
 - [dataflow optimization flow](#dfopt)
 - [SAQL in REST console](#saql)
     - [Boston Housing Data SAQL](https://github.com/mohan-chinnappan-n/TCRM-Workbench/blob/master/data/bosting-housing/ea/load.md)
+    - [CarsData SAQL](https://github.com/mohan-chinnappan-n/TCRM-Workbench/blob/master/data/cars/ea/load.md)
+
 
 
 
