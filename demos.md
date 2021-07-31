@@ -16,6 +16,7 @@
     - [Boston Housing Data SAQL](https://github.com/mohan-chinnappan-n/TCRM-Workbench/blob/master/data/bosting-housing/ea/load.md)
     - [CarsData SAQL](https://github.com/mohan-chinnappan-n/TCRM-Workbench/blob/master/data/cars/ea/load.md)
 - [SAQL Console](#saqlc) 
+ 
 - [Quick Actions](qa/qa.md)
 
 - [Machine Learning with Tensforflow](ml/ml.md)
@@ -138,5 +139,6 @@
 ## SAQL Console
 
 ![saql console demo](img/tcrm-datasets-1.gif)
-
+- DataTable 
+![SAQL Console with datatable](img//tcrm-datasets-dt-1.gif)
 
