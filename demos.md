@@ -139,6 +139,13 @@
 ## SAQL Console
 
 ![saql console demo](img/tcrm-datasets-1.gif)
-- DataTable 
+- DataTable
+```
+q = load "0Fb3h000000Yk8vCAC/0Fc3h000006IFAGCA4";
+q = foreach q generate Name as 'Name', 
+      Miles_per_Gallon as 'MPG', 
+      Horsepower as'HP';
+
+``` 
 ![SAQL Console with datatable](img//tcrm-datasets-dt-1.gif)
 
