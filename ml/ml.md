@@ -1,4 +1,4 @@
-# TCRM Workbench - Machine Learning with Tensorflow 
+# TCRM Workbench - Machine Learning 
 
 ## Regression
 ![Cars- HP vs MPG](img/tcrm-ml-1.gif)
