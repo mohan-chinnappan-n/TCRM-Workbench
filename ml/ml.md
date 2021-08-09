@@ -11,6 +11,11 @@
 ## Sentiment analysis in SAQL console
 ![sent3](img/tcrm-ml-senti-3.gif)
 
+## Image Recognition Console
+![imgrc](img/tcrm-ml-imgrc-1.gif)
+
+
+
 
 
 
