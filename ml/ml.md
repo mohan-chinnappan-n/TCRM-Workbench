@@ -1,8 +1,17 @@
 # TCRM Workbench - Machine Learning 
 
+## Topics
+- [Regression](#regression)
+- [Sentiment Analysis](#sentiment)
+- [Image recognition](#imgrc)
+
+
+
+<a name='regression'></a>
 ## Regression
 ![Cars- HP vs MPG](img/tcrm-ml-1.gif)
 
+<a name='sentiment'></a>
 ## Sentiment analysis
 
 ![sent1](img/tcrm-ml-senti-1.gif)
@@ -11,6 +20,7 @@
 ## Sentiment analysis in SAQL console
 ![sent3](img/tcrm-ml-senti-3.gif)
 
+<a name='imgrc'></a>
 ## Image Recognition Console
 ![imgrc](img/tcrm-ml-imgrc-1.gif)
 
