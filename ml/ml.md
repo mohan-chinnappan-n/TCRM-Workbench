@@ -2,7 +2,10 @@
 
 ## Topics
 - [Regression](#regression)
+
 - [Sentiment Analysis](#sentiment)
+- [Q and A ](#qa)
+
 - [Image recognition](#imgrc)
 - [Multi Image recognition](#mimgrc)
 
@@ -31,6 +34,9 @@
 ## Multi Image Recognition Console
 ![mimgrc](img/tcrm-ml-mimgrc-1.gif)
 ![mimgrc-2](img/tcrm-ml-mimgrc-2.png)
+
+## Q and A Console
+![qa1](img/tcrm-ml-qac-1.png)
 
 
 
