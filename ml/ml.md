@@ -29,7 +29,9 @@
 <a name='mimgrc'></a>
 
 ## Multi Image Recognition Console
-![imgrc](img/tcrm-ml-mimgrc-1.gif)
+![mimgrc](img/tcrm-ml-mimgrc-1.gif)
+![mimgrc-2](img/tcrm-ml-mimgrc-2.png)
+
 
 
 
