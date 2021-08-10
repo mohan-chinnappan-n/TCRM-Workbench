@@ -4,6 +4,8 @@
 - [Regression](#regression)
 - [Sentiment Analysis](#sentiment)
 - [Image recognition](#imgrc)
+- [Multi Image recognition](#mimgrc)
+
 
 
 
@@ -23,6 +25,11 @@
 <a name='imgrc'></a>
 ## Image Recognition Console
 ![imgrc](img/tcrm-ml-imgrc-1.gif)
+
+<a name='mimgrc'></a>
+
+## Multi Image Recognition Console
+![imgrc](img/tcrm-ml-mimgrc-1.gif)
 
 
 
