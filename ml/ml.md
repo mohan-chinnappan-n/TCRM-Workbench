@@ -1,5 +1,8 @@
 # TCRM Workbench - Machine Learning 
 
+## References 
+- [Text classification with an RNN](https://www.tensorflow.org/text/tutorials/text_classification_rnn)
+
 ## Topics
 - [Regression](#regression)
 
